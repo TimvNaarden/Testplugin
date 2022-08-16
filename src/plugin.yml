@@ -1,0 +1,29 @@
+main: me.tim.testplugin.testplugin
+name: TimsSurvival
+version: 1.0
+description: Custom features!
+author: Tim
+
+commands:
+  hallo: 
+    description: Stuur een gezellig hallo berichtje!
+  ping:
+    description: Verkrijg je ping!
+  welcome:
+    description: Verander je inlogbericht!
+  c:
+    description: Ga in spectator mode!
+  nick:
+    description: Verander je displaynaam!
+  spawn:
+    description: Ga naar spawn!
+  listheader:
+    description: Tekst boven de spelers lijst!
+  home:
+    description: Ga naar een home!
+  sethome:
+    description: Maak een home!
+  delhome:
+    description: Delete een home!
+  admin:
+    description: God stuff voor admins!
